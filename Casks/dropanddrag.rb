@@ -1,5 +1,5 @@
 cask "dropanddrag" do
-  version "1.0.0"
+  version "1.0.1"
   sha256 arm:   "f218a45ec175c6ed479e8e600d7c4ca813895451268f8703b72335b7e313ac7f",
          intel: "PLACEHOLDER_X64_SHA256"
 
